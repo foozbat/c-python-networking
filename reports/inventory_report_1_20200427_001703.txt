@@ -1,0 +1,5 @@
+BOOK NAME                  TOTAL ON HAND              IN USE           AVAILABLE
+test                                  10                   6                   4
+The Best Book Ever 3                  55                  23                  32
+The Best Book Ever 4                  20                   0                  20
+testy                                 10                   1                   9

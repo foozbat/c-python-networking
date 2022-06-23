@@ -1,0 +1,2 @@
+BOOK NAME                  TOTAL ON HAND              IN USE           AVAILABLE
+test                                  10                   0                  10

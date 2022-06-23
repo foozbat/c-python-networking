@@ -8,11 +8,11 @@ Run "make" in the Server root directory.  The server executable will be placed i
 
 ## How to start the service
 
-To start the catalog server, type "make run" or "./BIN/Capstone" in the Server root directory.
+To start the catalog server, type "make run" or "./BIN/Server" in the Server root directory.
 
 ## How to connect
 
-To start the catalog client, type "python3 Capstone.py ADDRESS".  ADDRESS is the IP address or hostname of the actively running server.
+To start the catalog client, type "python3 Client.py ADDRESS".  ADDRESS is the IP address or hostname of the actively running server.
 
 Once the client has started, you can login using the default credentials of admin / password.
 
